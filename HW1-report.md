@@ -8,11 +8,13 @@ Due: January 17, 2024
 *What is the URL of the GitHub repo that you created in your personal account?*
 
    
-*In which direction does the 'push' command work (send local changes to remote OR send remote changes to local)?*
+*In which direction does the 'pull' command work (send local changes to remote OR send remote changes to local)?*
 
  This command is used to send remote changes to local.
    
 *You have committed a change on your local machine/remote. However, you want to undo the changes committed. How would you do that?*
+
+If the update is not visible on Github, we might not have executed the push command.
 
 ## Markdown
 
@@ -43,10 +45,10 @@ I am Dileep Reddy Jajappagari.
 
 ### I Like watching drama movies.
 
-*Insert a image of your house, sized appropriately*
+*Find an image of an animal. Insert the image into your report*
 
 
-![NYC_000021208828-2100-980](https://github.com/Dileepj1828/Repo-1/assets/156220676/13911a35-52d1-4f27-a3d0-ec996fb28cec)
+![pexels-denishan-joseph-4137250](https://github.com/Dileepj1828/Repo-1/assets/156220676/8af4a51d-cf7e-4675-8787-cad12566ffbf)
 
 
 ## Tableau
