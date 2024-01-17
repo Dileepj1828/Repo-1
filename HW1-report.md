@@ -55,6 +55,10 @@ I am Dileep Reddy Jajappagari.
 
 *Insert the image of your horizontal bar chart here. Reminder, this should show top 10 state names that has highest population in USA.*
 
+
+<img width="665" alt="USA State Population" src="https://github.com/Dileepj1828/Repo-1/assets/156220676/13d6663d-7983-4ec4-8561-c373ab9697b5">
+
+
 ## Google Colab
 
 *What is the URL of your Google Colab notebook?*
